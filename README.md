@@ -19,7 +19,7 @@ The TMS320F2812 device, a member of the TMS320F28x, DSP generation, is highly in
     • 8 Analog Inputs pins terminated in connector.
     • Multiple Booting Option Connectors.
     • Onboard IEEE 1149.1 JTAG emulation connector
-    ## Benefits
+  ## Benefits
     • 16 x 16 and 32 x 32 MAC Operations.
     • 150 MHz (6.67-ns Cycle Time).
     • Low-Power (1.8-V Core @135 MHz, 1.9-V Core @150 MHz, 3.3-V I/O) Design.
@@ -27,14 +27,14 @@ The TMS320F2812 device, a member of the TMS320F28x, DSP generation, is highly in
     • Solar Power systems.
     • Servo drives and motion control.
     • Renewable Energy and Uninterrupted power supplies.
-    ## TEXAS –TMS320F2812
+  ## TEXAS –TMS320F2812
     • Flash Devices: Up to 128K x 16 Flash (Four 8K x 16 and Six 16K x 16 Sectors)
     • ROM Devices: Up to 128K x 16 ROM
     • 1K x 16 OTP ROM
     • L0 and L1: 2 Blocks of 4K x 16 Each Single-Access RAM (SARAM)
     • H0: 1 Block of 8K x 16 SARAM
     • M0 and M1: 2 Blocks of 1K x 16 Each SARAM
-    ## Kit Includes:
+  ## Kit Includes:
     • TMS320C2812 Evaluation Board.
     • USB Cable.
     • CD Contains:
